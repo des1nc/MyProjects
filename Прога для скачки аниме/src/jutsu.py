@@ -6,7 +6,7 @@
 #   \____/ \__,_|\__|_____/ \__,_|
 #
 #  Easy download your favorite anime from jut.su
-#  by @Alexander_akhmatovvv_Going_to_do
+#  by des1nc
 
 import os
 import sys
